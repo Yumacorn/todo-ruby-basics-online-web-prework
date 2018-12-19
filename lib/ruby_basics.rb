@@ -10,7 +10,7 @@ def argue(var)
   var
 end
 
-def greeting
+def greeting(x, y)
 
 end
 
